@@ -10,7 +10,7 @@ If you don't know what Hacker News is, you can go to [https://news.ycombinator.c
 
 ## Setup and delivery
 
-Please fork this repo to work on your implementation and make sure your repo is publicly available to us. When you're ready reply to HR providing the link to your repository with proper instructions for us to test your code.
+Please provide a git repo or a `tar.gz` file containing all the files needed to show your implementation. When you're ready reply to HR providing the link to your material with proper instructions for us to test your code.
 
 Please write in a short document (`.md` or `.txt`) your main development/design choices and put it in the root folder of the repository. 
 
